@@ -15,4 +15,4 @@ socketio.on("connection", (userSocket) => {
     })
 })
 
-http.listen(process.env.PORT)web: node index.js
+http.listen(process.env.PORT)
